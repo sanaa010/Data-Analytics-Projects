@@ -196,4 +196,4 @@ I'm passionate about solving real-world business problems using data and continu
 
 ---
 
-> **"Turning raw data into meaningful insights, one project at a time."** 📊✨
+> **"Turning raw data into meaningful insights."** 📊✨
